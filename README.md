@@ -20,5 +20,5 @@ This repository accompanies our study on the **global pricing of antibiotics** u
 
 ## CONTENT of this repository
 
-- R code. xxyyy 
+- R code. HEA_midas_financial.R : Code to clean data and compute all analyses
 - R code. xxyyy
