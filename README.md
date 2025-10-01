@@ -20,5 +20,5 @@ This repository accompanies our study on the **global pricing of antibiotics** u
 
 ## CONTENT of this repository
 
-- R code. HEA_midas_financial.R : Code to clean data and compute all analyses
-- R code. xxyyy
+- R code. HEA_midas_financial.R. This contains the script used to clean data and compute all analyses
+- Shinny app: A tool for visualisation of a country’s potential pharmaceutical expenditure savings to account for different pricing strategies and improvement in antibiotic usage around the 70% Access target (https://bit.ly/3WN1wZR)
