@@ -1,4 +1,4 @@
-# Global Pricing of Antibiotics per DDD and Sustainable Access
+# Global pricing of AWaRe (Access, Watch, Reserve) antibiotics: implications of the UNGA-AMR 70% Access target on national pharmaceutical expenditure
 
 ## About this Paper  
 This repository accompanies our study on the **global pricing of antibiotics** using the WHO **AWaRe classification** (Access, Watch, Reserve). The analysis is motivated by the **2024 UNGA High-level Meeting on AMR**, which committed to the target that **70% of global human antibiotic use (ABU) should come from the Access group**.  
