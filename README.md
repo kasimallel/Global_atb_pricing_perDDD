@@ -1,6 +1,7 @@
 # Global Pricing of Antibiotics per DDD and sustainable access
 
-About this Paper
+#About this Paper
+
 This study evaluates the global pricing of antibiotics using the WHO AWaRe classification (Access, Watch, Reserve). The work is motivated by the 2024 UNGA High-level Meeting on AMR, which set a target that 70% of human antibiotic use should come from the Access group.
 Key Points
 Data: We used IQVIA MIDAS® 2019 global sales data (value and volume) to calculate average ex-manufacturer prices per defined daily dose (DDD) across AWaRe groups and countries.
